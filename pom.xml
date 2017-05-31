@@ -21,12 +21,11 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://xiaojia.c@gitlab.com/xiaojia.c/standard-prod-line.git</connection>
-        <developerConnection>scm:git:git@gitlab.com:xiaojia.c/standard-prod-line.git</developerConnection>
-        <url>https://xiaojia.c@gitlab.com/xiaojia.c/standard-prod-line/tree/master</url>
+        <connection>scm:git:https://github.com/xiaojiaC/standard-prod-line.git</connection>
+        <developerConnection>scm:git:git@github.com:xiaojiaC/standard-prod-line.git</developerConnection>
+        <url>https://github.com/xiaojiaC/standard-prod-line.git</url>
         <tag>HEAD</tag>
     </scm>
-
 
     <repositories>
         <repository>
